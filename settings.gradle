@@ -1,0 +1,6 @@
+rootProject.name = 'multi-project-practice'
+
+
+include 'api'
+include 'core'
+include 'domain'
